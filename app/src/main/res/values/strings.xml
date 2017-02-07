@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="highest_rated">Highest Rated</string>
+    <string name="rating" formatted="false">Rating: %.2g%n</string>
+    <string name="release_date">Release date: %s</string>
+</resources>
